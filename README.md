@@ -1,5 +1,6 @@
 # BigBountyRecon-P
 # BigBountyRecon - Python Version
+# version 1 (beta) by merlin777 and claude.ai
 
 A Python implementation similar to the original [BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon), automating reconnaissance processes during bug bounty hunting by integrating various online tools in one place.
 
